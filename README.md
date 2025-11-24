@@ -11,10 +11,31 @@ O projeto permite:
 
 ## 📸 Telas do Projeto
 
-![Tela Inicial](./screenshots/home.png)
-![Detalhes do Livro](./screenshots/bookDetails.png)
-![Cadastro de Livro](./screenshots/newBook.png)
-![Cadastro de Gênero](./screenshots/newGenre.png)
+## 📸 Telas do Projeto
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏠 Tela Inicial</strong><br>
+      <img src="./screenshots/home.png" width="300px">
+    </td>
+    <td align="center">
+      <strong>📘 Detalhes do Livro</strong><br>
+      <img src="./screenshots/bookDetails.png" width="300px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>➕ Cadastro de Livro</strong><br>
+      <img src="./screenshots/newBook.png" width="300px">
+    </td>
+    <td align="center">
+      <strong>🏷️ Cadastro de Gênero</strong><br>
+      <img src="./screenshots/newGenre.png" width="300px">
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Funcionalidades Atuais
 
