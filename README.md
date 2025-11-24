@@ -9,16 +9,12 @@ O projeto permite:
 - Salvar citações favoritas  
 - Persistir todos os dados em arquivos `.txt` legíveis
 
----
-
 ## 📸 Telas do Projeto
 
 - Tela Principal  
 - Detalhes do Livro  
 - Cadastro de Livro  
 - Nova Citação  
-
----
 
 ## 🚀 Funcionalidades Atuais
 
@@ -48,8 +44,6 @@ O projeto permite:
   - `genres.txt`
 - Formato customizado e legível, com uso de **tags de proteção de dados**
 
----
-
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
 Este projeto foi desenvolvido aplicando amplamente conceitos de **POO – Programação Orientada a Objetos**.
@@ -73,8 +67,6 @@ Este projeto foi desenvolvido aplicando amplamente conceitos de **POO – Progra
 - **Persistência:**  
   Leitura/escrita com `BufferedReader` e `BufferedWriter`
 
----
-
 ## 📂 Estrutura do Projeto
 
 Padrão **MVC simplificado**:
@@ -86,8 +78,6 @@ src/com/bookTracker/
 ├── persistence/ # Lógica de arquivos (DataManager)
 └── service/ # Regras de negócio e controle (BookService)
 
----
-
 ## 🔮 Roadmap (Futuras Melhorias)
 
 - [ ] **Datas de Leitura:** Início e término da leitura  
@@ -96,8 +86,6 @@ src/com/bookTracker/
 - [ ] **Notas Pessoais:** Campo de texto para resenhas ou anotações  
 - [ ] **Dashboard:** Estatísticas como total de páginas lidas e gênero favorito  
 - [ ] **Backup:** Exportação dos arquivos `.txt`  
-
----
 
 ## 🤝 Contribuição
 
