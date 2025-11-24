@@ -100,6 +100,4 @@ Contribuições são bem-vindas! Para colaborar:
    `git push origin feature/NovaFeature`
 5. Abra um **Pull Request**
 
----
-
 Desenvolvido por Rubens Schueng Netto 🚀
