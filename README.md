@@ -11,10 +11,10 @@ O projeto permite:
 
 ## 📸 Telas do Projeto
 
-- Tela Principal  
-- Detalhes do Livro  
-- Cadastro de Livro  
-- Nova Citação  
+![Tela Inicial](./screenshots/home.png)
+![Detalhes do Livro](./screenshots/bookDetails.png)
+![Cadastro de Livro](./screenshots/newBook.png)
+![Cadastro de Gênero](./screenshots/newGenre.png)
 
 ## 🚀 Funcionalidades Atuais
 
