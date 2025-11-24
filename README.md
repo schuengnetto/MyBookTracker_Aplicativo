@@ -69,12 +69,12 @@ Este projeto foi desenvolvido aplicando amplamente conceitos de **POO – Progra
 
 ## 📂 Estrutura do Projeto
 
-src/com/bookTracker/
+'''src/com/bookTracker/
 ├── exception/      # Exceções personalizadas (ValidationException)
 ├── gui/            # Telas e componentes Swing (MainFrame, Panels)
 ├── model/          # Classes de domínio (Book, Genre, Ebook, etc.)
 ├── persistence/    # Lógica de arquivos (DataManager)
-└── service/        # Regras de negócio e controle (BookService)
+└── service/        # Regras de negócio e controle (BookService)'''
 
 
 ## 🔮 Roadmap (Futuras Melhorias)
