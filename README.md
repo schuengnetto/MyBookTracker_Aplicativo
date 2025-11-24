@@ -11,8 +11,6 @@ O projeto permite:
 
 ## 📸 Telas do Projeto
 
-## 📸 Telas do Projeto
-
 <table>
   <tr>
     <td align="center">
