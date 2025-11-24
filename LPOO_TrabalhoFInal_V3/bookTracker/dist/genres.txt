@@ -1,4 +1,0 @@
-GENRE: 1e01ccad-ac80-413b-82d7-11fe228e341c ; Finanças
-GENRE: 3fcaf226-5079-4e2c-9f08-0f8e9b5e85c2 ; Política
-GENRE: 8a4f3dbf-cf00-48b4-852c-2be9d505d46b ; Autoajuda
-GENRE: 09cdaec5-4823-493e-8de4-3a5891432b75 ; Investimento
